@@ -1,0 +1,56 @@
+@import './font.css';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, li {
+  list-style: none;
+}
+
+body {
+  font-family: "Roboto";
+}
+
+/* ishlash qismi  */
+
+.header {
+
+}
+
+.main {
+
+}
+
+.news {
+
+}
+
+.prod {
+
+}
+
+.shop {
+
+}
+
+.post {
+
+}
+
+.footer {
+  
+}
