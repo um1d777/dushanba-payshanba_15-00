@@ -47,17 +47,21 @@ body {
 
 
 
-.prod__sud {
+.prod__left {
   padding: 78px;
   width: 100%;
+  margin-right: 97px;
+}
+.prod__titel{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
 }
 
 
-
-.prod__name {
-display: flex;
-
-
+.prod__name { 
+  
 font-weight: 700;
 font-size: 23px;
 line-height: 27px;
@@ -95,8 +99,13 @@ background: #050505;
 color: #FFE600;
 }
 
-
-
+.prod__right{
+  padding: 78px;
+  width: 100%;
+}
+.prod__right-bottom{
+  margin-top: 15px;
+}
 
 
 
